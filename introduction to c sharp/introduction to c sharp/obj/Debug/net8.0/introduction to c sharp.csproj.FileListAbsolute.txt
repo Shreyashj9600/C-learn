@@ -1,0 +1,14 @@
+D:\C sharp\introduction to c sharp\introduction to c sharp\bin\Debug\net8.0\introduction to c sharp.exe
+D:\C sharp\introduction to c sharp\introduction to c sharp\bin\Debug\net8.0\introduction to c sharp.deps.json
+D:\C sharp\introduction to c sharp\introduction to c sharp\bin\Debug\net8.0\introduction to c sharp.runtimeconfig.json
+D:\C sharp\introduction to c sharp\introduction to c sharp\bin\Debug\net8.0\introduction to c sharp.dll
+D:\C sharp\introduction to c sharp\introduction to c sharp\bin\Debug\net8.0\introduction to c sharp.pdb
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\introduction to c sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\introduction to c sharp.AssemblyInfoInputs.cache
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\introduction to c sharp.AssemblyInfo.cs
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\introduction to c sharp.csproj.CoreCompileInputs.cache
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\introduction to c sharp.dll
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\refint\introduction to c sharp.dll
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\introduction to c sharp.pdb
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\introduction to c sharp.genruntimeconfig.cache
+D:\C sharp\introduction to c sharp\introduction to c sharp\obj\Debug\net8.0\ref\introduction to c sharp.dll
