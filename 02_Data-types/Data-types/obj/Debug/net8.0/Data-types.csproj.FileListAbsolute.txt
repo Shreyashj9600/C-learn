@@ -1,0 +1,14 @@
+D:\C sharp\Data-types\Data-types\bin\Debug\net8.0\Data-types.exe
+D:\C sharp\Data-types\Data-types\bin\Debug\net8.0\Data-types.deps.json
+D:\C sharp\Data-types\Data-types\bin\Debug\net8.0\Data-types.runtimeconfig.json
+D:\C sharp\Data-types\Data-types\bin\Debug\net8.0\Data-types.dll
+D:\C sharp\Data-types\Data-types\bin\Debug\net8.0\Data-types.pdb
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\Data-types.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\Data-types.AssemblyInfoInputs.cache
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\Data-types.AssemblyInfo.cs
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\Data-types.csproj.CoreCompileInputs.cache
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\Data-types.dll
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\refint\Data-types.dll
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\Data-types.pdb
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\Data-types.genruntimeconfig.cache
+D:\C sharp\Data-types\Data-types\obj\Debug\net8.0\ref\Data-types.dll
