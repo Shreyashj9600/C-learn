@@ -1,0 +1,14 @@
+D:\C sharp\statements\statements\bin\Debug\net8.0\statements.exe
+D:\C sharp\statements\statements\bin\Debug\net8.0\statements.deps.json
+D:\C sharp\statements\statements\bin\Debug\net8.0\statements.runtimeconfig.json
+D:\C sharp\statements\statements\bin\Debug\net8.0\statements.dll
+D:\C sharp\statements\statements\bin\Debug\net8.0\statements.pdb
+D:\C sharp\statements\statements\obj\Debug\net8.0\statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\statements\statements\obj\Debug\net8.0\statements.AssemblyInfoInputs.cache
+D:\C sharp\statements\statements\obj\Debug\net8.0\statements.AssemblyInfo.cs
+D:\C sharp\statements\statements\obj\Debug\net8.0\statements.csproj.CoreCompileInputs.cache
+D:\C sharp\statements\statements\obj\Debug\net8.0\statements.dll
+D:\C sharp\statements\statements\obj\Debug\net8.0\refint\statements.dll
+D:\C sharp\statements\statements\obj\Debug\net8.0\statements.pdb
+D:\C sharp\statements\statements\obj\Debug\net8.0\statements.genruntimeconfig.cache
+D:\C sharp\statements\statements\obj\Debug\net8.0\ref\statements.dll
