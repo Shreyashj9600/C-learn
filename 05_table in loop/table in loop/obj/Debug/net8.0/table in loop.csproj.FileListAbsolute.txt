@@ -1,0 +1,14 @@
+D:\C sharp\table in loop\table in loop\bin\Debug\net8.0\table in loop.exe
+D:\C sharp\table in loop\table in loop\bin\Debug\net8.0\table in loop.deps.json
+D:\C sharp\table in loop\table in loop\bin\Debug\net8.0\table in loop.runtimeconfig.json
+D:\C sharp\table in loop\table in loop\bin\Debug\net8.0\table in loop.dll
+D:\C sharp\table in loop\table in loop\bin\Debug\net8.0\table in loop.pdb
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\table in loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\table in loop.AssemblyInfoInputs.cache
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\table in loop.AssemblyInfo.cs
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\table in loop.csproj.CoreCompileInputs.cache
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\table in loop.dll
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\refint\table in loop.dll
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\table in loop.pdb
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\table in loop.genruntimeconfig.cache
+D:\C sharp\table in loop\table in loop\obj\Debug\net8.0\ref\table in loop.dll
